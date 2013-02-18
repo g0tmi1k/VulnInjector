@@ -1,0 +1,32 @@
+LEGAL AGREEMENT:
+Your use of VulnInjector is governed by the following conditions. Please read this information carefully before using VulnInjector. By using it you are agreeing to the following conditions:
+
+* VulnInjector is OpenSource and released under the 'GNU General Public License, version 3'. See './LICENSE.txt'.
+* VulnInjector is supplied 'as-is'. The author assumes no liability for damages, direct or consequential, which may result from the use of VulnInjector.
+* You accept the operating system's EULA as well as anything 3rd party applications which are installed along with it.
+* International users need to check for any import restrictions that your government may impose.
+
+
+
+LICENSES:
+VulnInjector created by g0tmi1k under the GNU GPL license.
+Special thanks to Matt "hostess" Andreko for the valuable help.
+
+geteltorito provided by Olof Lagerkvist under the MIT license.
+
+7-zip provided by Igor Pavlov under the GNU LGPL license.
+
+mkisofs provided by Joerg Schilling & Ross Smithii under the GNU GPL license.
+
+Cygwin provided by Cygwin™ under the GNU GPL license.
+
+A copy of the license for each application mentioned above can be found in the following location: './bin/<name>_license.txt'.
+
+
+
+TRADEMARKS:
+Windows and Windows XP are a registered trademarks of Microsoft Corporation in the United States and other countries. All Rights Reserved.
+
+Cygwin is a registered trademarks of Red Hat, Inc. All Rights Reserved.
+
+All other trademarks and trade names are properties of their respective owners. All Rights Reserved.

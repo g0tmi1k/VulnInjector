@@ -1,0 +1,11 @@
+CHANGELOG
+
+
+-- v1.0.1 (2013-02-13)
++ Replaced Typo
++ Public release
+
+
+-- v1.0 (2013-02-12)
++ Initial release
++ Recorded video
